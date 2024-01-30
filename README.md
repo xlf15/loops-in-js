@@ -1,2 +1,2 @@
 # loops-in-js
-learned the loops 
+learned the loops 1
